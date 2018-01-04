@@ -16,6 +16,7 @@ def nQueens(n):
 # Assume board - 2D array
 def isSafe(board, x, y):
     # row-wise check
+    for y
 
     # col-wise check
 
